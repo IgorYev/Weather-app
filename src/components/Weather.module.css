@@ -1,0 +1,23 @@
+.weather_container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Example width */
+    margin: 0 auto; /* Center horizontally */
+  }
+  
+  .weather_header {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .weather_info {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .loading_text {
+    font-style: italic;
+    color: #888;
+  }
